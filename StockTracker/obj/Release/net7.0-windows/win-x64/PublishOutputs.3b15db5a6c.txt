@@ -1,0 +1,7 @@
+D:\StockTracker\StockTracker.pdb
+D:\StockTracker\D3DCompiler_47_cor3.dll
+D:\StockTracker\PenImc_cor3.dll
+D:\StockTracker\PresentationNative_cor3.dll
+D:\StockTracker\vcruntime140_cor3.dll
+D:\StockTracker\wpfgfx_cor3.dll
+D:\StockTracker\StockTracker.exe
